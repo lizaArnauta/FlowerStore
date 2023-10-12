@@ -1,4 +1,4 @@
-package flower.store;
+package flower.store;  
 
 public class FlowerPack {
     private Flower flower;
